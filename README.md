@@ -1,9 +1,9 @@
-# eslint-prettier
+# ESlint and Prettier Auto Setup
 
-Just a simple script I was testing. It configures Eslint and Prettier. You can test it your self:
+A simple script for auto setup ESLint and Pretier - (forked)
 
 ```
-npx https://github.com/luizomf/eslint-prettier
+npx https://github.com/umExDev/eslint-prettier
 ```
 
 **It requires Node, Npm (Npx) and Git installed.**
